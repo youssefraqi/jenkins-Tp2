@@ -1,10 +1,10 @@
-package com.example.servicepersonne;
+package Jenkins.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServicePersonneApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
